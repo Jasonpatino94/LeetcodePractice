@@ -13,6 +13,9 @@
 //         }
 // }
 
+
+
+//more efficient way
 const twoSum = (nums, target) => {
     let stored = {}
 
